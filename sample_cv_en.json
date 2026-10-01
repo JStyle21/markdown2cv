@@ -1,0 +1,96 @@
+{
+  "language": "en",
+  "personalInfo": {
+    "fullName": "Alex Morgan",
+    "phone": "+1-555-019-2834",
+    "email": "alex.morgan@example.com",
+    "location": "San Francisco, CA",
+    "linkedin": "https://linkedin.com/in/alex-morgan-sample",
+    "github": "https://github.com/alex-morgan-sample",
+    "website": "https://alexmorgan.example.com"
+  },
+  "summary": "Experienced Senior Software Engineer specializing in distributed systems, cloud architecture, and modern web applications. Proven track record of leading cross-functional engineering teams, architecting scalable microservices, and reducing infrastructure costs while maintaining 99.99% availability. Passionate about engineering excellence, automated CI/CD pipelines, and technical mentorship.",
+  "experience": [
+    {
+      "id": "exp-1",
+      "jobTitle": "Lead Software Engineer",
+      "company": "Acme Cloud Technologies",
+      "dateRange": "03/2022 – Present",
+      "bullets": [
+        "Spearheaded the migration from monolithic backend to event-driven microservices architecture using Go, Kafka, and Kubernetes, improving throughput by 45%.",
+        "Architected real-time streaming data ingestion pipeline processing over 100M events per day with sub-second p99 latency.",
+        "Mentored a distributed team of 8 software engineers, introducing structured code reviews, automated integration testing, and trunk-based development.",
+        "Optimized multi-region AWS cloud footprint, decreasing annual infrastructure spending by $180,000 without sacrificing SLA targets."
+      ]
+    },
+    {
+      "id": "exp-2",
+      "jobTitle": "Senior Full-Stack Developer",
+      "company": "Nexus Systems",
+      "dateRange": "06/2018 – 02/2022",
+      "bullets": [
+        "Designed and delivered high-traffic customer-facing web applications using React, TypeScript, and Node.js serving over 500,000 active monthly users.",
+        "Implemented comprehensive end-to-end security improvements including OAuth2/OIDC authentication, role-based access control (RBAC), and automated vulnerability scanning.",
+        "Collaborated closely with product managers and UX designers to reduce checkout workflow drop-off by 22% through performance optimization and usability enhancements.",
+        "Established continuous integration and deployment (CI/CD) pipelines with GitHub Actions, reducing deployment cycle times from hours to minutes."
+      ]
+    },
+    {
+      "id": "exp-3",
+      "jobTitle": "Software Engineer",
+      "company": "Vanguard Data Labs",
+      "dateRange": "09/2015 – 05/2018",
+      "bullets": [
+        "Developed RESTful and GraphQL APIs powering internal analytics dashboards, reducing query latency by 35% through Redis caching and query indexing.",
+        "Partnered with DevOps engineers to containerize legacy services with Docker, standardizing development and staging environments.",
+        "Authored comprehensive technical documentation, unit tests, and integration test suites, elevating test coverage from 55% to 88%."
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "id": "cert-1",
+      "title": "B.Sc. in Computer Science",
+      "institution": "State University of Technology",
+      "dateRange": "2011 – 2015",
+      "skills": [
+        "Distributed Systems, Algorithms, Data Structures, Software Engineering"
+      ]
+    },
+    {
+      "id": "cert-2",
+      "title": "AWS Certified Solutions Architect – Professional",
+      "institution": "Amazon Web Services",
+      "dateRange": "2023",
+      "skills": [
+        "Cloud Architecture, VPC, IAM, ECS, Serverless, Cost Optimization"
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "id": "ach-1",
+      "text": "Core Contributor: Open-Source Cloud Orchestrator (10k+ GitHub stars)",
+      "link": "https://example.com/project-report",
+      "linkText": "View Repository"
+    },
+    {
+      "id": "ach-2",
+      "text": "Speaker: International Cloud & Distributed Systems Summit 2023",
+      "link": "https://example.com/conference-talk",
+      "linkText": "Watch Session"
+    },
+    {
+      "id": "ach-3",
+      "text": "Patent: Distributed Consensus Optimization for Geo-Replicated Stores",
+      "link": "https://example.com/patent",
+      "linkText": "View Publication"
+    }
+  ],
+  "languages": [
+    "English (Native)",
+    "Spanish (Conversational)"
+  ],
+  "languagesDisplay": "bullets",
+  "references": "Available upon request."
+}
